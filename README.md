@@ -1,3 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+Hello 👋, I'm Ivan Goel!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?weight=500&size=30&pause=700&lines=Ivan+Goel;Bachelor+of+Technology+;Computer+science+and+engineering)
 
 
