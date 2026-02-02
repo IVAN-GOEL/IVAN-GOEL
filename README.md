@@ -6,6 +6,8 @@ Hello 👋, I'm Ivan Goel!
 <p align="center">
 <a href="https://www.linkedin.com/in/ivan-goel"/><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="https://x.com/GoelIvan85335"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
   
  <summary><h2>📕📕📕New Projects</h2></summary>
