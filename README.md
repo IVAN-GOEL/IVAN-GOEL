@@ -12,7 +12,13 @@ Hello 👋, I'm Ivan Goel!
   
  <summary><h2>📕📕📕New Projects</h2></summary>
 
-  <p align="left">
-    <a href="https://github.com/IVAN-GOEL/Tech-courier/blob/main/README.md"><img width="278" src="https://github.com/IVAN-GOEL/Tech-courier/blob/main/unnamed.jpg"&repo=Tech-courier
-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
+  <a href="https://github.com/IVAN-GOEL/Tech-courier/blob/main/README.md">
+    <img width="278" src="https://github.com/IVAN-GOEL/Tech-courier/blob/main/unnamed.jpg" alt="Tech Courier">
+  </a>
+  <a href="https://github.com/IVAN-GOEL/country.stat">
+    <img width="278" src="https://github.com/IVAN-GOEL/country.stat/blob/main/logo.png" alt="Country Stat">
+  </a>
+
+</div>
