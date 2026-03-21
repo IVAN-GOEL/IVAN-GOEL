@@ -17,6 +17,10 @@ Hello 👋, I'm Ivan Goel!
   <a href="https://github.com/IVAN-GOEL/Tech-courier/blob/main/README.md">
     <img width="278" src="https://github.com/IVAN-GOEL/Tech-courier/blob/main/unnamed.jpg" alt="Tech Courier">
   </a>
+  <a href="https://github.com/IVAN-GOEL/scoreiq.ai">
+    <img width="278" src="https://github.com/IVAN-GOEL/scoreiq.ai/blob/main/scoreiq_logo_purple.svg" alt="scoreIQ">
+  </a>
+
   <a href="https://github.com/IVAN-GOEL/country.stat">
     <img width="278" src="https://github.com/IVAN-GOEL/country.stat/blob/main/logo.png" alt="Country Stat">
   </a>
